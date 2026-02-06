@@ -29,16 +29,16 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con base sól
 ---
 
 ### Proyectos Destacados 📁
-* [cite_start]**CRM Empresarial Full Stack:** Desarrollado con Angular 20 y Spring Boot (Java 21)[cite: 30, 31].
-* [cite_start]**Interacción Digital Unity:** Creación de ambientes tridimensionales y lógica en C#[cite: 32].
+* **CRM Empresarial Full Stack:** Desarrollado con Angular 20 y Spring Boot (Java 21).
+* **Interacción Digital Unity:** Creación de ambientes tridimensionales y lógica en C#.
 
 ---
 
 ### Contacto & Más 🌍
-* [cite_start]📍 **Ubicación:** Madrid, España[cite: 3].
-* [cite_start]🗣️ **Idiomas:** Español (Nativo) e Inglés (B2 Certificado)[cite: 13, 20].
-* [cite_start]💼 **Habilidades:** Adaptabilidad, Creatividad, Organización y Proactividad[cite: 6, 7, 8, 9].
-* [cite_start]🚗 Permiso de conducir B e incorporación inmediata[cite: 15, 16].
+* 📍 **Ubicación:** Madrid, España.
+* 🗣️ **Idiomas:** Español (Nativo) e **Inglés (C1 Certificado EFS)**.
+* 💼 **Habilidades:** Adaptabilidad, Creatividad, Organización y Proactividad.
+* 🚗 Permiso de conducir B e incorporación inmediata.
 
 ---
 
