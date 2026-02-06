@@ -1,7 +1,7 @@
 # [PabloRP06@Github ~]# whoami
 
-### Perfil Profesional 🚀
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en ingeniería de software Full-Stack. Mi enfoque es el aprendizaje continuo y la creación de soluciones escalables en entornos bilingües.
+### 👨‍💻 Perfil Profesional
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Especializado en ingeniería de software **Full-Stack**, con enfoque en soluciones innovadoras y aprendizaje continuo en entornos bilingües.
 
 ---
 
@@ -13,42 +13,18 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en i
 
 ---
 
-### Mi Actividad en GitHub 🐍
+### 🐍 Activity_Tracker
 ![Snake animation](https://github.com/PabloRP06/PabloRP06/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### Tecnologías & Stack 🛠️
+### 📂 System_Stack
+```bash
+$ focal_technologies --list
+> Java 21, Spring Boot, Angular 20, Node.js, JavaScript, PHP
 
-#### 🌐 Frontend & Backend
-![](https://img.shields.io/badge/Java_21-00FF00?style=for-the-badge&logo=openjdk&logoColor=black)
-![](https://img.shields.io/badge/Spring_Boot-00FF00?style=for-the-badge&logo=spring-boot&logoColor=black)
-![](https://img.shields.io/badge/Angular_20-00FF00?style=for-the-badge&logo=angular&logoColor=black)
-![](https://img.shields.io/badge/Node.js-00FF00?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![](https://img.shields.io/badge/JavaScript-00FF00?style=for-the-badge&logo=javascript&logoColor=black)
+$ infrastructure_and_tools --list
+> Docker, Azure, Linux (Ubuntu), Git, GitHub
 
-#### ☁️ Sistemas & Cloud
-![](https://img.shields.io/badge/Docker-00FF00?style=for-the-badge&logo=docker&logoColor=black)
-![](https://img.shields.io/badge/Azure-00FF00?style=for-the-badge&logo=microsoft-azure&logoColor=black)
-![](https://img.shields.io/badge/AWS-00FF00?style=for-the-badge&logo=amazon-aws&logoColor=black)
-
----
-
-### Proyectos Destacados 📁
-* **CRM Empresarial Full Stack:** Desarrollado con Angular 20 y Spring Boot (Java 21).
-* **Interacción Digital Unity:** Creación de ambientes tridimensionales y lógica en C#.
-
----
-
-### Contacto & Idiomas 🌍
-* 🗣️ **Inglés:** Nivel C1 (Certificado EFS).
-* 💼 **Habilidades:** Adaptabilidad, Creatividad, Organización y Proactividad.
-* 🚗 Permiso de conducir B.
-
----
-
-### GitHub Metrics 📊
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PabloRP06&show_icons=true&theme=matrix&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloRP06&theme=matrix" />
-</p>
+$ databases_and_others --list
+> SQL (MySQL), Unity (C#), Blender, Cisco Packet Tracer
